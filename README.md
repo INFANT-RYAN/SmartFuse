@@ -5,7 +5,7 @@ SmartFuse – Intelligent Charging Automation SmartFuse is an Arduino-based syst
 
 ###🔧 HARDWARE
 
-**Arduino Nano (or compatible microcontroller)
+- **Arduino Nano (or compatible microcontroller)
 
 **Relay Module (for charging control)
 
