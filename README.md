@@ -4,12 +4,19 @@ SmartFuse – Intelligent Charging Automation SmartFuse is an Arduino-based syst
 Prerequisites for SmartFuse
 
 🔧 HARDWARE
+
 Arduino Nano (or compatible microcontroller)
+
 Relay Module (for charging control)
+
 Connecting Wires (for secure connections)
 
 💻 SOFTWARE
+
 Python (for automation logic) (3.10V IS RECOMMENDE)
+
 PyFirmata (to communicate with Arduino)
+
 Psutil (to read battery percentage)
+
 Arduino IDE (for initial setup and testing)
