@@ -3,7 +3,7 @@ SmartFuse – Intelligent Charging Automation SmartFuse is an Arduino-based syst
 
 **Prerequisites for SmartFuse**
 
-**🔧 HARDWARE**
+## 🔧 HARDWARE
 
 - Arduino Nano (or compatible microcontroller)
 
@@ -11,7 +11,7 @@ SmartFuse – Intelligent Charging Automation SmartFuse is an Arduino-based syst
 
 - Connecting Wires (for secure connections)
 
-**💻 SOFTWARE**
+## 💻 SOFTWARE
 
 - Python (for automation logic) (3.10V IS RECOMMENDE)
 
